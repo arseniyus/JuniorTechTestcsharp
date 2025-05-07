@@ -1,0 +1,6 @@
+@JuniorTechTest_HostAddress = http://localhost:5161
+
+GET {{JuniorTechTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
